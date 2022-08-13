@@ -1,2 +1,2 @@
 # Grid-Gallery
-Gallery with grid
+Gallery with CSS grid
